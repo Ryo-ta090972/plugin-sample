@@ -89,3 +89,5 @@ public final class Main extends JavaPlugin implements Listener {
 
   }
 }
+
+// github の練習
